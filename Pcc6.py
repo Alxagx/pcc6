@@ -60,4 +60,3 @@ lucky_number = {
 }
 for name,numbers in lucky_number.items():
     print(f"{numbers} is the lucky number for {name.title()}")
-   
